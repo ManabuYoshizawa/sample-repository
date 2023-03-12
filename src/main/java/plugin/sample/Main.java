@@ -84,4 +84,5 @@ public final class Main extends JavaPlugin implements Listener {
   }
 
   // gitテスト用コメントです
+  // Pull Requestサンプル用コメントです
 }
